@@ -1,0 +1,13 @@
+<hierarchy title="Vehicles" />
+<Level1 text="Vehicle"
+    <Level2 text="Motorcycle"></Level2>
+    <Level2 text="Car">
+        <Level3>"Sedan"</Level3>
+        <Level3>"SUV"</Level3>
+    </Level2>
+    <Level2 text="Truck">
+        <Level3>"Light"</Level3>
+        <Level3>"Heavy"</Level3>
+    </Level2>
+</Level1>
+<!--This is a simple exercise to help me get familiar with writing a snippet of XML code that will categorically structure data into the tree diagram.-->
